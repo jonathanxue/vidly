@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "vidly_jwtPrivateKey"
+}
+
+//export vidly_jwtPrivateKey = Foo
